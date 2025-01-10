@@ -1,12 +1,8 @@
-unstructured
-tiktoken
+streamlit
+pinecone
 pinecone-client
-pypdf
-openai
+PyPDF2
 langchain
-pandas 
-numpy
-python-dotenv
 transformers
 sentence_transformers
 io
