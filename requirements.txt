@@ -8,3 +8,5 @@ pandas
 numpy
 python-dotenv
 transformers
+sentence_transformers
+io
