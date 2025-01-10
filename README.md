@@ -1,4 +1,4 @@
-# Document Processing & QA System
+# DocGPT
 
 This is a web-based application for processing PDF documents and performing question-and-answer (Q&A) tasks based on the uploaded documents. The system utilizes Hugging Face embeddings and stores vectorized representations in a Pinecone vector database. It is built using Streamlit for the frontend interface.
 
@@ -83,7 +83,7 @@ document-qa-system/
 - Styling: Modify the st.markdown section for custom UI styling.
 ---
 ## Screenshots
-![Output Image](file:///C:/Users/patel/Pictures/Screenshots/Screenshot%202025-01-10%20104308.png)
+![Output Image](https://github.com/HitenXUnihox/VectorDocs/blob/main/documents/Screenshot%202025-01-10%20111530.png)
 ---
 ## License
 - This project is licensed under the MIT License.
